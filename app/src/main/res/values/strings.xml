@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicAppPlayer</string>
+    <string name="title1">The Bizarre Song</string>
+    <string name="title2">Del Rio Bravo</string>
+    <string name="title3">Verano Sensual</string>
+    <string name="title4">Beachfront Celebration</string>
+    <string name="title5">Late Night Radio</string>
+    <string name="about_info">Music App allows you to listen to free music with shuffle playlist or a loop to replay all songs once the playlist is finished.</string>
+    <string name="about_title">About</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="settings_label">Setting...</string>
+    <string name="settings_title">Music App settings</string>
+    <string name="settings_shortcut">s</string>
+</resources>
